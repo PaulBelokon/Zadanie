@@ -14,3 +14,9 @@
 ```
 Пример:
 ![альтернативный текст](https://kartinkin.net/uploads/posts/2022-03/1647437107_1-kartinkin-net-p-kartinki-na-telefon-priroda-leto-1.jpg)
+
+чтобы добавить картинку-ссылку, необходимо модифицировать блок-схему выше следующим образом
+```
+[![альтернативный текст](ссылка на изображение само)](ссылка на изображение если кликнем на него)
+```
+[![прикол](https://kartinkin.net/uploads/posts/2022-03/1647437107_1-kartinkin-net-p-kartinki-na-telefon-priroda-leto-1.jpg)](https://www.youtube.com/watch?v=1vyU8csWzcg&ab_channel=chistobzden)
